@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="StressServer.StressService" CodeBehind="StressService.svc.cs" %>
